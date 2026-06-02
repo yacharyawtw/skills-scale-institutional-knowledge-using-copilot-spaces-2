@@ -20,6 +20,14 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Specialized Roles (as needed)
+- Risk Manager: owns the risk register, risk reviews, and mitigation follow-up.
+- UX Designer: owns user flows, prototypes, design QA, and usability validation.
+- Release Coordinator: owns release logistics, deployment readiness, and release communications.
+- Customer Success Lead: owns onboarding readiness, early feedback capture, and post-release success tracking.
+
+For role details and communication patterns, see [Roles & Personas](octoacme-roles-and-personas.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan

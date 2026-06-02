@@ -13,11 +13,15 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+Primary owner should be the **Risk Manager** when assigned (or the Project Manager for smaller projects).
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
 - Mitigate: reduced via actions, contingency plans
 - Monitor: review at weekly syncs and update status
+
+The Risk Manager leads this lifecycle in partnership with Project Managers, Product Managers, and Developers.
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
