@@ -15,6 +15,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+Release activities are coordinated by the **Release Coordinator** (or Project Manager if no dedicated coordinator is assigned).
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
@@ -22,6 +24,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+
+The Release Coordinator partners with Developers for technical execution, Product Managers for go/no-go decisions, and Customer Success/Support for external communication.
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
